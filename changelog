@@ -1,0 +1,21 @@
+v1.0
+- Updated CoFHCore
+- Updated Immersive Engineering
+-- Config changes --
+Mekanism power gen nerfed into the ground.
+generation {
+    D:AdvancedSolarGeneration=150.0
+    D:BioGeneration=450.0
+    D:HeatGeneration=75.0
+    D:HeatGenerationLava=5.0
+    D:HeatGenerationNether=100.0
+    D:SolarGeneration=10.0
+    D:WindGenerationMax=150.0
+    I:WindGenerationMaxY=255
+    D:WindGenerationMin=10.0
+    I:WindGenerationMinY=80
+    
+- Recipe unification to make IE starting tech tree.  
+- Removed RC Blast Furnace and Coke Oven recipes
+- Tweaked recipe of Water Tank (Considering it is your sole source of infinite water production)
+- Removed recipe for Iron walls (Steel however will be left available)
